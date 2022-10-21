@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openapitools/openapi-generator-cli": "^2.5.2"
+    "@openapitools/openapi-generator-cli": "^2.5.2",
+    "quartetcom-openapi-generator-php81-templates": "github:77web/openapi-generator-php81-templates#v1.0.2"
   }
 }
